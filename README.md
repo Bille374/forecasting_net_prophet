@@ -16,9 +16,9 @@ after make a comparesion between sum of search traffic and overall monthly media
 
 # Step 2: Mine the Search Traffic Data for Seasonality
 
-plot different views by resample them by monthly, weekly and hourly then groupe them by index with using aggregation mean function 
+plot different views by resample them by monthly, weekly and hourly then groupby them by index with using aggregation mean function 
 ![bokeh_plot (3)](https://user-images.githubusercontent.com/69637182/187726618-b27f770d-1266-43a0-9a64-5b211558e1de.png)
-![Screenshot 2022-08-31 110908](https://user-images.githubusercontent.com/69637182/187726637-38a6dd22-d41e-43e7-a944-b5dacb9c65ea.png)
+
 
 # Step 3: Relate the Search Traffic to Stock Price Patterns
 In this section reading stock trend csv file, then plot close price showing bellow  
@@ -43,7 +43,7 @@ Lastly making prediction of stock prices for the next 80 days by using Prophet o
 reading csv dataset, then apply fbprophet model on out dataset after plot it make understanding of our stock behavior
 ![Screenshot 2022-08-31 112837](https://user-images.githubusercontent.com/69637182/187730692-ba68f707-f877-4534-a202-8a9bdf3c139f.png)
 ![Screenshot 2022-08-31 112903](https://user-images.githubusercontent.com/69637182/187730875-06869767-d969-463b-9842-d8606884b70d.png)
-![bokeh_plot (8)](https://user-images.githubusercontent.com/69637182/187730859-3731ce7e-a04d-4197-b47b-80a4a3440083.png)
+
 
 from last plot we see how search traffic behavios throught a year, week and day
 
