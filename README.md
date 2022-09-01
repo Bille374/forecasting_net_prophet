@@ -5,7 +5,7 @@
 2. pandas - to read csv
 3. holowviews - to plot data
 
-# Istalations 
+# Instalations 
 using google colab and install moules 
 # Step 1: Find Unusual Patterns in Hourly Google Search Traffic
 by reading csv using pandas library then plot search traffic for monthof may to see if there uneven fluctuations in out trend 
